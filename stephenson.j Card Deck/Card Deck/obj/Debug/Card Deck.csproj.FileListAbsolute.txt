@@ -1,0 +1,10 @@
+E:\Projects hehe XD\stephenson.j Card Deck\stephenson.j Card Deck\Card Deck\bin\Debug\Card Deck.exe.config
+E:\Projects hehe XD\stephenson.j Card Deck\stephenson.j Card Deck\Card Deck\bin\Debug\Card Deck.exe
+E:\Projects hehe XD\stephenson.j Card Deck\stephenson.j Card Deck\Card Deck\bin\Debug\Card Deck.pdb
+E:\Projects hehe XD\stephenson.j Card Deck\stephenson.j Card Deck\Card Deck\obj\Debug\Card Deck.csprojAssemblyReference.cache
+E:\Projects hehe XD\stephenson.j Card Deck\stephenson.j Card Deck\Card Deck\obj\Debug\Card_Deck.CardDeck.resources
+E:\Projects hehe XD\stephenson.j Card Deck\stephenson.j Card Deck\Card Deck\obj\Debug\Card_Deck.Properties.Resources.resources
+E:\Projects hehe XD\stephenson.j Card Deck\stephenson.j Card Deck\Card Deck\obj\Debug\Card Deck.csproj.GenerateResource.cache
+E:\Projects hehe XD\stephenson.j Card Deck\stephenson.j Card Deck\Card Deck\obj\Debug\Card Deck.csproj.CoreCompileInputs.cache
+E:\Projects hehe XD\stephenson.j Card Deck\stephenson.j Card Deck\Card Deck\obj\Debug\Card Deck.exe
+E:\Projects hehe XD\stephenson.j Card Deck\stephenson.j Card Deck\Card Deck\obj\Debug\Card Deck.pdb
